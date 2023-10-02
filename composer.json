@@ -1,0 +1,9 @@
+{
+	"name": "offseat/linkfield",
+	"description": "allow simple links",
+	"type": "silverstripe-vendormodule",
+	"require": {
+		"silverstripe/cms": "^4.0 | ^5.0",
+		"silverstripe/framework": "^4.0 | ^5.0"
+	}
+}
